@@ -3,9 +3,12 @@
 int main(){
   std::cout << "HelloWorld" << std::endl;
   std::cout << "This is my code" << std::endl;
+<<<<<<< HEAD
+  
+  std::cout << "It's xiaomage" << std::endl;
+=======
 
 
   std::cout << "That's from Huey's macbook" << std::endl;
-  
-  std::cout << "It's xiaomage" << std::endl;
+>>>>>>> f006911ad507a4aa262ad1afb09b5a6549ca4fce
 }
