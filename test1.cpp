@@ -6,4 +6,5 @@ int main(){
   
   std::cout << "It's xiaomage" << std::endl;
   std::cout << "Haha2" << std::endl;
+  std::cout << "Add more" << std::endl;
 }
